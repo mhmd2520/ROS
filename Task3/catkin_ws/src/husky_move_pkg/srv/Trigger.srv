@@ -1,0 +1,5 @@
+float64 data
+---
+bool success      # Indicates whether the service call was successful
+string message   # A descriptive message that may accompany the success status
+

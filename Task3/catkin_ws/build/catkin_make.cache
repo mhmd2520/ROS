@@ -1,0 +1,2 @@
+Husky/husky_control:Husky/husky_description:Husky/husky_desktop:Husky/husky_gazebo:Husky/husky_msgs:Husky/husky_navigation:Husky/husky_simulator:Husky/husky_viz:husky_move_pkg
+-DCATKIN_DEVEL_PREFIX=/home/mohamed/ROS_Material/Task3/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mohamed/ROS_Material/Task3/catkin_ws/install -G Unix Makefiles

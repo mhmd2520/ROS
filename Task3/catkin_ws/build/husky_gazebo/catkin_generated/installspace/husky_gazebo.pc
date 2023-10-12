@@ -1,0 +1,8 @@
+prefix=/home/mohamed/ROS_Material/Task3/catkin_ws/install
+
+Name: husky_gazebo
+Description: Description of husky_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
