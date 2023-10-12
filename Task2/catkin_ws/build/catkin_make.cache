@@ -1,0 +1,2 @@
+first_pkg:second_pkg:turtle_move_pkg
+-DCATKIN_DEVEL_PREFIX=/home/mohamed/ROS_Material/Task2/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mohamed/ROS_Material/Task2/catkin_ws/install -G Unix Makefiles

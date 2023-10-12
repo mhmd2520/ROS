@@ -1,0 +1,7 @@
+1- Writing a publisher subscriber codes to send a string: “ hello my name is $name”
+2- writing a publisher subscriber code to send decremental series of numbers.
+3- writing a publisher subscriber code to move the turtlesim:
+- in a circle
+- in a straight line
+Then show how can I accelerate its motion
+( you should first check all the nodes , topics and messages to determine which one you will use)
